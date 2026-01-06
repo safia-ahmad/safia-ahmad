@@ -16,9 +16,9 @@
 ## About Me
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="60"/>
-  <img src="https://skillicons.dev/icons?i=github" width="60"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="60"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/>
 </div>
 
 <br>
