@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1500&color=00E6FE&center=true&vCenter=true&width=940&height=80&lines=Learning+Machine+Learning+from+scratch;Python+%7C+Data+Science+%7C+ML;Building+small+projects+to+learn;Consistency+over+speed;Progress+%3E+Perfection" />
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=safia-ahmad&style=for-the-badge&color=0AA1DD)
-![GitHub Followers](https://img.shields.io/github/followers/safia-ahmad?style=for-the-badge&color=0AA1DD)
-
 </div>
 
 ---
