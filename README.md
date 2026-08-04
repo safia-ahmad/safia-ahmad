@@ -279,4 +279,468 @@ I believe that successful AI systems require much more than accurate models. The
 
 </p>
 
-<!-- END OF PART 1 -->
+# Featured Projects
+
+> **A selection of projects demonstrating my experience in Generative AI, Machine Learning, Retrieval-Augmented Generation (RAG), Scientific Machine Learning, and scalable backend development.**
+
+---
+
+<details open>
+
+<summary>
+
+# 🏥 Medical Retrieval-Augmented Generation (Medical RAG)
+
+### Biomedical Question Answering System
+
+</summary>
+
+---
+
+### Overview
+
+Medical RAG is a production-style biomedical question answering system that reproduces a complete Retrieval-Augmented Generation pipeline over **PubMed** literature. The system combines sparse retrieval, dense retrieval, hybrid ranking, vector search, and Large Language Models to generate grounded medical answers while reducing hallucinations.
+
+---
+
+### Architecture
+
+```text
+User Query
+      │
+      ▼
+ BM25 Retrieval
+      │
+      ▼
+ BioBERT + MedCPT Retrieval
+      │
+      ▼
+ Hybrid Ranking
+      │
+      ▼
+ FAISS Index
+      │
+      ▼
+ Relevant Papers
+      │
+      ▼
+ Gemini
+      │
+      ▼
+ Final Answer
+```
+
+---
+
+### Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Language | Python |
+| Framework | Hugging Face |
+| Retrieval | BM25 |
+| Dense Retrieval | BioBERT, MedCPT |
+| Vector Search | FAISS |
+| Dataset | BioASQ |
+| LLM | Gemini |
+
+---
+
+### Key Features
+
+✅ Hybrid Retrieval
+
+✅ Dense + Sparse Search
+
+✅ Biomedical Question Answering
+
+✅ PubMed Integration
+
+✅ Grounded Responses
+
+✅ Reduced Hallucination
+
+✅ Production-style Pipeline
+
+---
+
+### Engineering Highlights
+
+- Complete Medical RAG reproduction
+
+- FAISS vector indexing
+
+- Hybrid ranking pipeline
+
+- BioASQ evaluation
+
+- Biomedical embeddings
+
+- Grounded answer generation
+
+---
+
+### Impact
+
+- Improves answer relevance
+
+- Better factual grounding
+
+- Demonstrates production AI architecture
+
+---
+
+### Repository
+
+**🔗**
+
+https://github.com/safia-ahmad/medical-rag-reproduction
+
+---
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 🏆 Intelligent RAG Query System
+
+### 🥇 1st Place — VERCERA 5.0 Hackathon
+
+</summary>
+
+---
+
+### Overview
+
+Designed and built a production-ready Retrieval-Augmented Generation platform capable of answering questions over large document collections using semantic retrieval and REST APIs.
+
+The project won **1st Place** among **30+ teams** during a 24-hour hackathon.
+
+---
+
+### Architecture
+
+```text
+Documents
+
+↓
+
+Chunking
+
+↓
+
+Embedding Generation
+
+↓
+
+ChromaDB
+
+↓
+
+Semantic Search
+
+↓
+
+LangChain
+
+↓
+
+LLM
+
+↓
+
+FastAPI
+
+↓
+
+Client
+```
+
+---
+
+### Technology Stack
+
+| Component | Technology |
+|------------|------------|
+| Language | Python |
+| Framework | LangChain |
+| Vector DB | ChromaDB |
+| Backend | FastAPI |
+| Deployment | REST API |
+
+---
+
+### Features
+
+✔ Semantic Search
+
+✔ FastAPI Backend
+
+✔ REST APIs
+
+✔ Document Retrieval
+
+✔ Context Injection
+
+✔ Real-time Responses
+
+✔ Reduced Hallucinations
+
+---
+
+### Engineering Highlights
+
+- Production architecture
+
+- Team leadership
+
+- Backend API design
+
+- Retrieval optimization
+
+- Prompt engineering
+
+---
+
+### Impact
+
+🏆 First Place
+
+💰 ₹10,000 Prize
+
+👨‍💻 Team Lead
+
+⚡ Built within 24 Hours
+
+---
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 🌊 Physics-Informed Neural Networks
+
+### Solving the 1D Wave Equation
+
+</summary>
+
+---
+
+### Overview
+
+Implemented a Physics-Informed Neural Network (PINN) capable of solving the one-dimensional wave equation using automatic differentiation instead of supervised learning.
+
+Rather than relying on labelled datasets, the model learns by minimizing the governing partial differential equation and associated boundary conditions.
+
+---
+
+### Core Concepts
+
+- Automatic Differentiation
+
+- PDE Residual
+
+- Boundary Conditions
+
+- Initial Conditions
+
+- Physics-based Loss
+
+- Analytical Validation
+
+---
+
+### Tech Stack
+
+| Category | Technology |
+|-----------|------------|
+| Language | Python |
+| Framework | TensorFlow |
+| Research | PINNs |
+
+---
+
+### Highlights
+
+✔ Scientific Machine Learning
+
+✔ Deep Learning
+
+✔ Differential Equations
+
+✔ Research Project
+
+✔ Numerical Methods
+
+✔ Analytical Validation
+
+---
+
+### Learning Outcomes
+
+- Automatic differentiation
+
+- PDE optimisation
+
+- Neural differential equations
+
+- Scientific AI
+
+---
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 🎓 AMU RAG
+
+### Conversational AI for University Information
+
+</summary>
+
+---
+
+### Overview
+
+AMU RAG is a conversational assistant designed to answer questions related to Aligarh Muslim University using Retrieval-Augmented Generation while ensuring data privacy through a locally hosted LLM.
+
+---
+
+### System Architecture
+
+```text
+User
+
+↓
+
+FastAPI
+
+↓
+
+Retriever
+
+↓
+
+ChromaDB
+
+↓
+
+Ollama
+
+↓
+
+Response
+```
+
+---
+
+### Technology Stack
+
+| Component | Technology |
+|------------|------------|
+| Backend | FastAPI |
+| Vector DB | ChromaDB |
+| LLM | Ollama |
+| Language | Python |
+
+---
+
+### Features
+
+✔ Local LLM
+
+✔ Fast Responses
+
+✔ Semantic Search
+
+✔ Private Deployment
+
+✔ University Knowledge Base
+
+---
+
+### Highlights
+
+- Under 5 second responses
+
+- Private deployment
+
+- RAG pipeline
+
+- Local inference
+
+---
+
+### Repository
+
+https://github.com/rahman-misbah/amu-rag
+
+---
+
+</details>
+
+---
+
+# Additional Projects
+
+| Project | Description |
+|----------|-------------|
+| LLM Fine-Tuning | Fine-tuned Llama-3.2-1B using LoRA, PEFT and 4-bit Quantization |
+| Prompt Engineering | Instruction-based sequence labeling using LLMs |
+| REST APIs | AI backend services using FastAPI |
+| Machine Learning | Regression, Classification, Model Evaluation |
+| Data Analysis | NumPy, Pandas, Feature Engineering |
+
+---
+
+# Research Interests
+
+```text
+Artificial Intelligence
+
+├── Large Language Models
+
+├── Retrieval-Augmented Generation
+
+├── AI Agents
+
+├── Machine Learning
+
+├── Deep Learning
+
+├── Scientific Machine Learning
+
+├── Physics-Informed Neural Networks
+
+├── Natural Language Processing
+
+└── Backend Engineering
+```
+
+---
+
+# Open Source Philosophy
+
+I enjoy building open, reproducible AI systems that demonstrate not only model performance but also software engineering quality. My goal is to contribute projects that are educational, production-oriented, and valuable to the broader developer and research community.
+
+---
+
+<p align="center">
+
+## ⭐ Building AI systems that combine research, engineering, and real-world usability.
+
+</p>
+
+
