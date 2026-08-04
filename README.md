@@ -1041,14 +1041,9 @@ Research
 # 🐍 Contribution Snake
 
 > **Enable the GitHub Action below once in your repository. After it runs, this animation will appear automatically.**
-
-```html
 <p align="center">
-<img src="https://raw.githubusercontent.com/safia-ahmad/safia-ahmad/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/safia-ahmad/safia-ahmad/output/github-contribution-grid-snake-dark.svg" />
 </p>
-```
-
----
 
 # 📌 Pinned Repositories
 
