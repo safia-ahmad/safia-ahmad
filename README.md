@@ -1000,3 +1000,254 @@ Research
 </p>
 
 
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=safia-ahmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="175" src="https://streak-stats.demolab.com?user=safia-ahmad&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safia-ahmad&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=safia-ahmad&theme=tokyonight&no-frame=true&margin-w=18&margin-h=18&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=safia-ahmad&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Enable the GitHub Action below once in your repository. After it runs, this animation will appear automatically.**
+
+```html
+<p align="center">
+<img src="https://raw.githubusercontent.com/safia-ahmad/safia-ahmad/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
+
+---
+
+# ⚙ GitHub Actions (Snake)
+
+Create:
+
+```
+.github/workflows/snake.yml
+```
+
+Paste:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: safia-ahmad
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+# 📌 Pinned Repositories
+
+I recommend pinning these repositories on your GitHub profile:
+
+| Repository | Why Pin It |
+|------------|------------|
+| ⭐ Medical RAG | Strongest AI/LLM project |
+| ⭐ Intelligent RAG Query System | Hackathon-winning production project |
+| ⭐ AMU RAG | End-to-end RAG application |
+| ⭐ Physics-Informed Neural Networks | Research-oriented deep learning project |
+| ⭐ DSA Repository | Demonstrates problem-solving skills |
+| ⭐ Portfolio Website | Personal branding |
+
+---
+
+# 📅 2026 Goals
+
+```yaml
+Career:
+  - AI Engineering Internship
+  - Software Engineering Internship
+  - Research Internship
+
+Learning:
+  - Advanced Transformers
+  - Reinforcement Learning
+  - Agentic AI
+  - MLOps
+  - Distributed Systems
+
+Building:
+  - Multi-Agent AI Applications
+  - Medical AI Systems
+  - Production-Grade RAG Platforms
+  - Open Source Projects
+
+Research:
+  - Publish a Review Paper
+  - Contribute to AI Research
+  - Explore Scientific Machine Learning
+
+Community:
+  - Mentor Students
+  - Contribute to Open Source
+  - Share AI Learning
+```
+
+---
+
+# 🌟 What I'm Currently Working On
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🔬 Research
+
+- Large Language Models
+- Retrieval-Augmented Generation
+- Prompt Engineering
+- AI Agents
+- Scientific Machine Learning
+
+</td>
+
+<td width="50%">
+
+### 💻 Engineering
+
+- FastAPI
+- Docker
+- Backend APIs
+- System Design
+- Production AI Pipelines
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:safiakhan2900@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-safiakhan2900%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://linkedin.com/in/safia-ahmad-khan">
+
+<img src="https://img.shields.io/badge/LinkedIn-Safia%20Ahmad%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/safia-ahmad">
+
+<img src="https://img.shields.io/badge/GitHub-safia--ahmad-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://research-portfolio-gold.vercel.app">
+
+<img src="https://img.shields.io/badge/Portfolio-Live-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 💜 Support My Work
+
+<p align="center">
+
+If you enjoy my work or find my projects useful, consider ⭐ starring the repositories.
+
+I'm always open to collaborating on AI, Machine Learning, Software Engineering, and Research projects.
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"The best AI systems are built where research meets robust engineering."**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,30&height=160&section=footer"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=safia-ahmad&style=flat-square&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/followers/safia-ahmad?style=flat-square"/>
+
+<img src="https://img.shields.io/github/stars/safia-ahmad?style=flat-square"/>
+
+</p>
+
