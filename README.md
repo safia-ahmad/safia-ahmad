@@ -1,267 +1,235 @@
-<!-- ======================= HEADER ======================= -->
+Safia Ahmad Khan
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:6A5ACD&height=200&section=header&text=Safia%20Ahmad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=7F5AF0&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Software+Engineer;Full+Stack+Developer;Machine+Learning+%7C+Deep+Learning;Building+Scalable+Systems"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:6A5ACD&height=220&section=header&text=Safia%20Ahmad%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AMU-BSc%20Computer%20Science-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20%7C%20ML-Engineer-indigo?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/India-Uttar%20Pradesh-blue?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Researcher;Generative+AI+Developer;Full+Stack+Developer"/>
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Connect-indigo?style=for-the-badge"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge"/></a>
+<a href="https://research-portfolio-gold.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/safia-ahmad-khan"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge"/></a>
+<a href="mailto:safiakhan2900@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge"/></a>
+<a href="https://github.com/safia-ahmad"><img src="https://img.shields.io/badge/GitHub-safia--ahmad-111827?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue"/>
-  <img src="https://img.shields.io/github/followers/yourusername?style=flat-square"/>
-  <img src="https://img.shields.io/github/stars/yourusername?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=safia-ahmad&style=flat-square&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/safia-ahmad?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/safia-ahmad?affiliations=OWNER&style=flat-square"/>
 </p>
 
----
+About
 
-## 🧠 About
+Computer Science student at Aligarh Muslim University focused on Generative AI, Retrieval-Augmented Generation (RAG), Large Language Models, Machine Learning and Software Engineering.
 
-Software Engineer and AI/ML enthusiast with a strong foundation in **scalable system design, machine learning, and full-stack development**.  
-Currently pursuing **BSc (Hons) Computer Science at AMU**, building enterprise-grade solutions and research-driven AI systems.
+Research Intern at NIT Trichy
 
-I specialize in:
+1st Place – VERCERA 5.0 Hackathon
 
-- Designing **production-ready software systems**
-- Developing **AI/ML pipelines and models**
-- Building **full-stack applications with modern frameworks**
-- Writing **clean, optimized, and scalable code**
+Built production-style RAG systems using LangChain, FastAPI, FAISS and ChromaDB.
 
-Driven by a **product engineering mindset**, I focus on delivering real-world impact through technology.
+Interested in AI Systems, Backend Engineering and Applied Research.
 
-### 🚀 Open To
-- Software Engineering Roles  
-- AI / ML Engineering  
-- Research Internships  
-- Open Source Collaboration  
+Tech Stack
 
----
+Languages
 
-## ⚙️ Tech Stack
+<p><img src="https://skillicons.dev/icons?i=python,cpp,java,sql"/></p>
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql"/>
-</p>
+AI / ML
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/></p>
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres"/>
-</p>
+Backend
 
-### Cloud, DevOps & Tooling
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=fastapi,docker,git,linux,mysql,postgres"/></p>
 
----
+AI / ML Expertise
 
-## 🤖 AI / ML Expertise
+Domain
 
-| Domain | Proficiency | Details |
-|--------|------------|--------|
-| Machine Learning | Advanced | Regression, Classification, Model Evaluation |
-| Deep Learning | Intermediate | CNNs, Neural Networks, Training Pipelines |
-| NLP | Intermediate | Token Classification, NER, Transformers |
-| Data Analysis | Advanced | Pandas, NumPy, EDA, Visualization |
-| MLOps | Beginner | Model Deployment, Optimization |
-| Research | Intermediate | PINNs, Scientific ML |
+Level
 
----
+Details
 
-## 🚀 Featured Projects
+LLMs
+
+Advanced
+
+Prompt Engineering, Fine-tuning
+
+RAG
+
+Advanced
+
+FAISS, ChromaDB, LangChain
+
+NLP
+
+Advanced
+
+NER, SeqEval, Transformers
+
+Deep Learning
+
+Intermediate
+
+PyTorch, TensorFlow
+
+Backend
+
+Intermediate
+
+FastAPI, REST APIs
+
+Featured Projects
 
 <details>
-<summary><strong>Medical RAG System</strong></summary>
+<summary><b>Medical RAG</b></summary>
 
-AI-powered retrieval augmented generation system for biomedical queries.
+Production-style biomedical QA pipeline using BM25, BioBERT, MedCPT, FAISS and Gemini.
 
-| Metric | Details |
-|--------|--------|
-| Stack | Python, Transformers, FAISS |
-| Scale | Large biomedical dataset |
-| Performance | Optimized inference latency |
-| Security | Data handling protocols |
-| Impact | Improved research query accuracy |
-| Repository | https://github.com/yourusername/project |
+Repository: https://github.com/safia-ahmad/medical-rag-reproduction
 
 </details>
 
 <details>
-<summary><strong>PINNs Wave Equation Solver</strong></summary>
+<summary><b>RAG Intelligent Query System (Hackathon Winner)</b></summary>
 
-Physics-informed neural network solving wave equations.
-
-| Metric | Details |
-|--------|--------|
-| Stack | Python, DeepXDE |
-| Scale | Scientific simulations |
-| Performance | Reduced numerical error |
-| Security | Controlled experiments |
-| Impact | Research-level contribution |
-| Repository | https://github.com/yourusername/project |
+LangChain + ChromaDB + FastAPI production system that won 1st Place.
 
 </details>
 
 <details>
-<summary><strong>Full Stack Portfolio</strong></summary>
+<summary><b>Physics Informed Neural Networks</b></summary>
 
-Modern developer portfolio with deployment.
-
-| Metric | Details |
-|--------|--------|
-| Stack | React, Vercel |
-| Scale | Personal branding |
-| Performance | Fast load time |
-| Security | HTTPS deployment |
-| Impact | Recruiter-ready profile |
-| Repository | https://github.com/yourusername/project |
+PINN implementation solving the 1D Wave Equation using physics-based loss.
 
 </details>
 
----
+<details>
+<summary><b>AMU RAG</b></summary>
 
-## 💼 Experience
+Conversational AI for AMU using FastAPI, ChromaDB and Ollama.
 
-### AI/ML Research Intern  
-**NIT Trichy**  
-*2026*
+</details>
 
-- Worked on **LLM fine-tuning and NER tasks**
-- Implemented **LoRA optimization techniques**
-- Built **token classification pipelines**
+Experience
 
-**Skills:** Python, Transformers, PyTorch, NLP
+Machine Learning Research Intern — NIT Tiruchirappalli
 
----
+Llama-3.2 Fine-tuning
 
-## 🏆 Achievements
+LoRA + PEFT
 
-<p align="center">
+Hugging Face Transformers
 
-| Recognition | Details |
-|------------|--------|
-| IEEE Coordinator | Social Media Lead |
-| Kurtosis Club | Technical Team Leader |
-| Research Work | PINNs & AI Projects |
+Prompt Engineering
 
-</p>
+Evaluation pipelines
 
----
+Data Science Mentor — Edway Tech
 
-## 📜 Certifications
+Mentored 20+ students
 
-### AWS
-![AWS](https://img.shields.io/badge/AWS-Certified-purple?style=for-the-badge)
+Delivered applied ML curriculum
 
-### Oracle
-![Oracle](https://img.shields.io/badge/Oracle-Certified-indigo?style=for-the-badge)
+Guided capstone projects
 
-### NPTEL
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-blue?style=for-the-badge)
+Certifications
 
-### Cisco
-![Cisco](https://img.shields.io/badge/Cisco-Certified-purple?style=for-the-badge)
+Machine Learning Specialization — Andrew Ng
 
----
+Deep Learning Specialization — DeepLearning.AI
 
-## 💻 Coding Profiles
+Programming in Python — Codédex
+
+GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HackerRank-Profile-darkgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=safia-ahmad&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=safia-ahmad&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safia-ahmad&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
+GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=safia-ahmad&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
----
-
-## 📈 Contribution Activity
+Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=safia-ahmad&theme=tokyo-night"/>
 </p>
 
----
+Contribution Snake
 
-## 🐍 Contribution Snake
+Add the GitHub Action below to generate the snake animation:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: safia-ahmad
+          outputs: dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+After enabling the workflow:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/safia-ahmad/safia-ahmad/output/snake.svg"/>
 </p>
 
----
+Current Focus
 
-## 🔭 Current Focus
-
-```yaml
 Learning:
-  - Advanced Machine Learning
+  - Advanced LLMs
+  - Agentic AI
   - System Design
-  - Deep Learning Architectures
 
 Building:
-  - AI-powered applications
-  - Scalable backend systems
+  - Production GenAI Applications
+  - AI APIs
 
-Exploring:
-  - LLMs
-  - MLOps
-  - Research papers
+OpenTo:
+  - AI Engineering
+  - Software Engineering
+  - Research
 
-Open To:
-  - Internships
-  - Full-time roles
-  - Research collaborations
-🤝 Connect
-<p align="center"> <a href="mailto:your@email.com">Email</a> • <a href="https://linkedin.com/in/your-link">LinkedIn</a> • <a href="https://github.com/yourusername">GitHub</a> • <a href="https://your-portfolio-link.vercel.app">Portfolio</a> </p>
-<p align="center"> <em>Engineering scalable systems and intelligent solutions.</em> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:6A5ACD&height=120&section=footer"/> </p> ```
-<div align="center">
+Connect
 
-Learning in public • Improving daily • Building foundations  
+Portfolio: https://research-portfolio-gold.vercel.app
 
-![Made in India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20in-India-orange?style=for-the-badge)
+LinkedIn: https://linkedin.com/in/safia-ahmad-khan
 
-</div>
+Email: safiakhan2900@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C6FB&height=100&section=footer"/>
+GitHub: https://github.com/safia-ahmad
+
+Building intelligent software that bridges research and real-world engineering.
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:6A5ACD&height=120&section=footer"/>
+</p>
