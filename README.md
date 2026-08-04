@@ -1000,33 +1000,6 @@ Research
 </p>
 
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=safia-ahmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="175" src="https://streak-stats.demolab.com?user=safia-ahmad&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safia-ahmad&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=safia-ahmad&theme=tokyonight&no-frame=true&margin-w=18&margin-h=18&column=4"/>
-
-</p>
-
----
 
 # 📈 Contribution Activity
 
