@@ -743,4 +743,260 @@ I enjoy building open, reproducible AI systems that demonstrate not only model p
 
 </p>
 
+# Professional Experience
+
+> *Transforming research ideas into production-ready AI systems.*
+
+---
+
+## 💼 Machine Learning Research Intern
+
+### National Institute of Technology Tiruchirappalli (NIT Trichy)
+
+**June 2026**
+
+---
+
+### Overview
+
+Worked on state-of-the-art **Large Language Models**, focusing on prompt engineering, instruction tuning, parameter-efficient fine-tuning, and evaluation for sequence labeling tasks.
+
+Designed an end-to-end experimentation pipeline covering preprocessing, model training, inference, evaluation, debugging, and performance optimization.
+
+---
+
+### Responsibilities
+
+- Designed prompt-based sequence labeling pipelines using **Llama-3.2-1B-Instruct**
+- Fine-tuned LLMs using **LoRA (PEFT)** under **4-bit Quantization**
+- Built complete preprocessing pipelines
+- Performed prompt engineering experiments
+- Evaluated models using **SeqEval**
+- Debugged precision-recall issues through systematic experimentation
+- Optimized GPU memory usage on NVIDIA Tesla T4
+
+---
+
+### Technologies Used
+
+<p>
+
+<img src="https://img.shields.io/badge/Llama%203.2-LLM-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-Transformers-FFCC4D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LoRA-PEFT-5B21B6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BitsAndBytes-4bit-4338CA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-3.11-2563EB?style=for-the-badge"/>
+
+</p>
+
+---
+
+### Key Skills
+
+```
+Large Language Models
+Prompt Engineering
+Fine-tuning
+Transformers
+PEFT
+LoRA
+GPU Training
+Evaluation Pipelines
+```
+
+---
+
+# 💼 Data Science Mentor
+
+### Edway Tech
+
+**September 2025**
+
+---
+
+### Overview
+
+Delivered a practical Machine Learning curriculum while mentoring students through projects, debugging sessions, and model optimization.
+
+---
+
+### Responsibilities
+
+- Conducted applied ML sessions
+- Mentored 20+ students
+- Reviewed project code
+- Improved model performance
+- Guided capstone projects
+- Helped students understand ML fundamentals
+
+---
+
+### Skills
+
+```
+Teaching
+Python
+Machine Learning
+Mentoring
+Model Evaluation
+Communication
+```
+
+---
+
+# Leadership
+
+---
+
+## 🚀 Project Coordinator & Technical Lead
+
+### Kurtosis Club
+
+- Led multiple technical projects
+- Organized AI & ML workshops
+- Mentored junior developers
+- Coordinated project teams
+- Promoted collaborative software development
+
+---
+
+# Achievements
+
+<p align="center">
+
+| Achievement | Details |
+|-------------|---------|
+| 🏆 **1st Place** | VERCERA 5.0 Hackathon |
+| 💰 Cash Prize | ₹10,000 |
+| 👥 Team Lead | Led a team of four developers |
+| 🧠 Research | Machine Learning Research Intern, NIT Trichy |
+| 🎯 Technical Leadership | Project Coordinator, Kurtosis Club |
+| 🎓 Mentor | Data Science Mentor, Edway Tech |
+
+</p>
+
+---
+
+# Certifications
+
+## Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Andrew%20Ng-Machine%20Learning-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DeepLearning.AI-Deep%20Learning-5B21B6?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Programming
+
+<p>
+
+<img src="https://img.shields.io/badge/Cod%C3%A9dex-Python-4338CA?style=for-the-badge"/>
+
+</p>
+
+---
+
+# Technical Expertise
+
+| Category | Technologies |
+|------------|-------------|
+| Programming | Python, C++, Java, SQL |
+| Machine Learning | Scikit-learn, TensorFlow, PyTorch |
+| LLMs | Hugging Face Transformers, Llama |
+| RAG | LangChain, FAISS, ChromaDB |
+| Backend | FastAPI, REST APIs |
+| Databases | PostgreSQL, MySQL |
+| Deployment | Docker, Linux |
+| Tools | Git, GitHub, VS Code |
+
+---
+
+# Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Coming%20Soon-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+</p>
+
+---
+
+# Research Interests
+
+```text
+Research
+
+├── Retrieval-Augmented Generation
+
+├── Large Language Models
+
+├── AI Agents
+
+├── Prompt Engineering
+
+├── Parameter-Efficient Fine-Tuning
+
+├── Deep Learning
+
+├── Scientific Machine Learning
+
+├── Physics-Informed Neural Networks
+
+├── Backend Engineering
+
+└── AI for Healthcare
+```
+
+---
+
+# Currently Exploring
+
+| Learning | Building | Exploring |
+|-----------|----------|------------|
+| Advanced LLM Fine-Tuning | Production AI Systems | AI Agents |
+| MLOps | FastAPI Services | Multi-Agent Systems |
+| Distributed Systems | RAG Applications | Scalable AI Infrastructure |
+| System Design | Research Projects | Open Source Contributions |
+
+---
+
+# Fun Facts
+
+- 🧠 I enjoy reading AI research papers.
+- 💡 I like turning research ideas into real software.
+- 🚀 I enjoy participating in hackathons and technical challenges.
+- 📚 I believe continuous learning is the key to engineering excellence.
+- 🌍 I aim to contribute to impactful AI systems that solve real-world problems.
+
+---
+
+<p align="center">
+
+## *"Research. Engineer. Deploy. Repeat."*
+
+</p>
+
 
